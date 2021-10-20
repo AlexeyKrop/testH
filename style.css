@@ -10,13 +10,13 @@
 }
 .header {
   border: 2px solid red;
-  height: 50px;
+  min-height: 50px;
   display: flex;
   flex-wrap: wrap;
 }
 .footer {
   border: 2px solid green;
-  height: 100px;
+  min-height: 100px;
 }
 .main {
   display: flex;
